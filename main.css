@@ -1,0 +1,41 @@
+* {
+    margin: 10px auto;
+}
+body {
+    background: black;
+    text-align: center;
+    color: white;
+}
+
+.ship {
+    max-width: 80px;
+    height: auto;
+    padding: 20px 10px;
+    margin: 10px auto;
+}
+#battlefield {
+    margin: 20px auto;
+}
+#player {
+    max-width: 400px;
+    margin: 200px auto 20px auto;
+}
+.message {
+    width: 90%;
+    font-size: 10rem;
+    color: white;
+}
+#fleet {
+    margin: 0 auto;
+    display: flex;
+    width: 90%;
+}
+
+button {
+    padding: 10px 20px;
+    border-radius: 20px;
+}
+
+#credit {
+    margin-top: 200px;
+}
